@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+p{
+    background-color: rgb(182, 235, 217);
+}
+a{
+    background-color: rgb(203, 100, 100);
+}
